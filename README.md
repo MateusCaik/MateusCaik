@@ -8,8 +8,9 @@
   
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusCaik&show_icons=true&theme=dracula)
 ## Social
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateusCaik)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWPbtmgzQbkBgsVxvzDGRcsrlWsMRNQDbXntvhnNFrvZgtfzpjqXdkhWxWrNfJgmxdzfL)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuscost/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateusCaik)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuscosyy/)
 
 ## Skills
